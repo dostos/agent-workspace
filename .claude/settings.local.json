@@ -5,7 +5,9 @@
       "Bash(git remote add:*)",
       "Bash(git remote set-url:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"$\\(cat <<''EOF''\n[agent-workspace] feat: initial setup for shared AI assistant configs\n\n- AGENTS.md as source of truth for all agents\n- Claude Code skills: commit, review, pr, plan, mcp-integration\n- MCP server configs: filesystem, fetch, memory, sequential-thinking, context7, serena\n- Cursor and Codex installation guides\n- Module-prefixed conventional commit format\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(git commit -m \"$\\(cat <<''EOF''\n[agent-workspace] feat: initial setup for shared AI assistant configs\n\n- AGENTS.md as source of truth for all agents\n- Claude Code skills: commit, review, pr, plan, mcp-integration\n- MCP server configs: filesystem, fetch, memory, sequential-thinking, context7, serena\n- Cursor and Codex installation guides\n- Module-prefixed conventional commit format\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
