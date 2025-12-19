@@ -1,0 +1,6 @@
+{
+  "filesystem": {
+    "command": "npx",
+    "args": ["-y", "@anthropic/mcp-server-filesystem", "${PROJECT_ROOT}"]
+  }
+}
